@@ -7,7 +7,7 @@ import PackageDescription
 let package = Package(
   name: "ChessKitEngine",
   platforms: [
-    .iOS(.v16),
+    .iOS(.v13),
     .watchOS(.v9),
     .macOS(.v13),
     .tvOS(.v16),
